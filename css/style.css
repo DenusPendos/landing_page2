@@ -876,13 +876,8 @@ body .wrapper .wrapper__column .footer .footer__row .footer__item .item-contact_
   width: 130px;
 }
 
-body .wrapper .wrapper__column .footer .footer__row .footer__item .item-contact__row img {
-  transition: all 0.3s ease 0s;
-}
-
 body .wrapper .wrapper__column .footer .footer__row .footer__item .item-contact__row img:hover {
-  transition: all 0.3s ease 0s;
-  transform: scale(1.1);
+  cursor: pointer;
 }
 
 body .wrapper .wrapper__column .footer .footer__row .footer__item .item__title {
